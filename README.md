@@ -7,7 +7,7 @@ Simple demo app to showcase Java, Spring Boot, Hibernate (JPA), JSP, MySQL and R
 - Spring Boot (Web, Data JPA, Security)
 - Hibernate (via Spring Data JPA)
 - JSP + JSTL
-- MySQL (via Docker Compose)
+- Oracle
 - Maven, JUnit 5, Mockito
 
 ## Quick notes
